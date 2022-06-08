@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listapedidos SYSTEM "Ejercicio-02.dtd">
+<listapedidos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Ejercicio-02.xsd">
+    <pedido>
+        <serie_numero>04092021</serie_numero>
+        <cantidad>4</cantidad>
+        <peso>4.5 kg</peso>
+    </pedido>
+</listapedidos>
